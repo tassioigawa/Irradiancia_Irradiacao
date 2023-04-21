@@ -1,4 +1,4 @@
-# Irradiância do Topo da atmosfera e Irradiação
+# Irradiância e Irradiação do Topo da atmosfera
 
 O script seguiu as metodologia a seguir:
 O cálculo de Irradiância no topo da atmosfera (TOA) foi realizado baseado na relação posicional estimada da Terra em relação ao Sol durante a coleta das amostras. Segundo Lorenzetti (2015), a irradiância extraterrestre para uma determinada superfície horizontal (Irradiância), na qual a normal vertical faça com o a direção do Sol um ângulo zenital é fornecida pela equação:
