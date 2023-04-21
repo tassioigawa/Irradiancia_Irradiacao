@@ -36,5 +36,7 @@ Dessa forma, o ângulo horário solar foi obtido para ser implementado na equaç
 Por fim, os dados obtidos em campo foram utilizados como dados entrada para o cálculo da Irradiação do Topo da Atmosfera no momento inicial e final que as medidas foram tomadas em campo. 
 
 Referências Bibliográficas
+
 IQBAL, M. An Introduction to Solar Radiation. Ontario: Academic Press Canada, 1983. 390p. 
+
 LORENZZETTI, J. A. Princípios físicos de sensoriamento remoto. São Paulo: Blucher, 2015.
