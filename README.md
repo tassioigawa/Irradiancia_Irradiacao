@@ -1,7 +1,7 @@
 # Irradiância do Topo da atmosfera e Irradiação
 
 O script seguiu as metodologia a seguir:
-O cálculo de Irradiância no topo da atmosfera (TOA) foi realizado baseado na relação posicional estimada da Terra em relação ao Sol durante a coleta das amostras. Segundo Lorenzetti (2015), a irradiância extraterrestre para uma determinada superfície horizontal (I ̇_0), na qual a normal vertical faça com o a direção do Sol um ângulo zenital é fornecida pela equação:
+O cálculo de Irradiância no topo da atmosfera (TOA) foi realizado baseado na relação posicional estimada da Terra em relação ao Sol durante a coleta das amostras. Segundo Lorenzetti (2015), a irradiância extraterrestre para uma determinada superfície horizontal (Irradiância), na qual a normal vertical faça com o a direção do Sol um ângulo zenital é fornecida pela equação:
 Irradiância no Topo da Atmosfera: 
 
 Irradiância = Es∙E0∙cosθZ = Es∙E0∙(senδ∙senϕ+cosδcosϕ∙cosω)	(1)
@@ -28,7 +28,7 @@ considerando que Ls é a longitude padrão e Lc é a longitude local, Et que é 
 
 Et = (0,000075 +0,001868 cos⁡Γ-0,032077 sen Γ 
 - 0,014615 cos⁡2Γ-0,04089 sen 2Γ)(229,18)	(6)
-- 
+ 
 Dessa forma, o ângulo horário solar foi obtido para ser implementado na equação da Irradiância do Topo da Atmosfera (Equação 1), conforme a seguinte equação (LORENZETTI, 2015, p.347):
 
 ⅆω=(π/12)ⅆt	(7)
